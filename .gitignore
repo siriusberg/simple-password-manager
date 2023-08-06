@@ -1,0 +1,14 @@
+# .gitignore
+
+# Python virtual environments
+venv/
+
+# JetBrains IDE project files
+.idea/
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Cache folders
+__pycache__/
